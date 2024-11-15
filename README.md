@@ -15,6 +15,6 @@ Welcome to my GitHub! I'm a lawyer turned software developer currently exploring
 ## 💬 Let's Connect!
 Feel free to explore my repositories and projects. I'm always open to feedback, collaboration, and discussions about coding!  
 
-- 📫 Reach me at: [LinkedIn](www.linkedin.com/in/danielle-cardona-se)  
+- 📫 Reach me on [LinkedIn](www.linkedin.com/in/danielle-cardona-se)  
 
 Thanks for stopping by! Happy coding! 🚀
