@@ -8,6 +8,7 @@ Welcome to my GitHub! I'm a lawyer turned software developer currently exploring
 - 📖 Learning React and Python
 
 ## 🛠️ Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 - **Languages**: Ruby, JavaScript, HTML, CSS
 - **Frameworks/Libraries**: Rails
 - **Other Tools**: Git, RSpec, Faker, Shoulda Matchers
