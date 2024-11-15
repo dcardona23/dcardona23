@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Danielle Cardona!
+# 👋 Hi, I'm Danielle!
 
 Welcome to my GitHub! I'm a lawyer turned software developer currently exploring and building projects in **Ruby, JavaScript, HTML, and CSS**. I'm always eager to learn new technologies, collaborate on exciting projects, and refine my coding skills.
 
