@@ -7,11 +7,7 @@ Welcome to my GitHub! I'm a lawyer turned software developer currently exploring
 - 💡 Building RESTful APIs using MVC architecture
 - 📖 Learning React and Python
 
-## 🛠️ Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-- **Languages**: Ruby, JavaScript, HTML, CSS
-- **Frameworks/Libraries**: Rails
-- **Other Tools**: Git, RSpec, Faker, Shoulda Matchers
+## 🛠️ Languages and Tools [![My Skills](https://skillicons.dev/icons?i=js,html,css, codepen, git, github, postgres, postman, rails, ruby)](https://skillicons.dev)
 
 ## 💬 Let's Connect!
 Feel free to explore my repositories and projects. I'm always open to feedback, collaboration, and discussions about coding!  
