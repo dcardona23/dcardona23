@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Danielle Cardona!
 
-<!--
-**dcardona23/dcardona23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a lawyer turned software developer currently exploring and building projects in **Ruby, JavaScript, HTML, and CSS**. I'm always eager to learn new technologies, collaborate on exciting projects, and refine my coding skills.
 
-Here are some ideas to get you started:
+## 🌱 What I'm Working On
+- 🚀 Enhancing my skills in **JavaScript, SQL, and Ruby on Rails**
+- 💡 Building RESTful APIs using MVC architecture
+- 📖 Learning React and Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages and Tools
+- **Languages**: Ruby, JavaScript, HTML, CSS
+- **Frameworks/Libraries**: Rails
+- **Other Tools**: Git, RSpec, Faker, Shoulda Matchers
+
+## 💬 Let's Connect!
+Feel free to explore my repositories and projects. I'm always open to feedback, collaboration, and discussions about coding!  
+
+- 📫 Reach me at: [LinkedIn](www.linkedin.com/in/danielle-cardona-se)  
+
+Thanks for stopping by! Happy coding! 🚀
