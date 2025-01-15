@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a lawyer turned software developer currently exploring
 - 📖 Learning **Next.js**
 
 ## 🛠️ Languages and Tools 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,codepen,git,github,postgres,postman,rails,ruby, react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,codepen,git,github,postgres,postman,rails,ruby,react)](https://skillicons.dev)
 
 ## 💬 Let's Connect!
 Feel free to explore my repositories and projects. I'm always open to feedback, collaboration, and discussions about coding!  
